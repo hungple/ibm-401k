@@ -1,0 +1,450 @@
+FID NEW MARKETS INC (FNMIX)
+05/04/1993
+Bond Investments	Emerging Markets Bond	-2.56%	-0.52%	3.15%	5.18%	05/31/2020	Show
+PIM EM LC BOND INST (PELBX)
+12/29/2006
+Bond Investments	Emerging Markets Bond	1.17%	0.69%	1.50%	1.21%	05/31/2020	Show
+PIM EM MKTS BD INST (PEBIX)
+07/31/1997
+Bond Investments	Emerging Markets Bond	1.38%	2.38%	4.11%	5.09%	05/31/2020	Show
+FID CAPITAL & INCOME (FAGIX)
+11/01/1977
+Bond Investments	High Yield Bond	0.93%	3.16%	3.88%	6.90%	05/31/2020	Show
+FID FLOAT RT HI INC (FFRHX)
+08/16/2000
+Bond Investments	High Yield Bond	-3.35%	1.30%	2.20%	3.32%	05/31/2020	Show
+FID HIGH INCOME (SPHIX)
+08/29/1990
+Bond Investments	High Yield Bond	-0.46%	2.45%	3.67%	5.92%	05/31/2020	Show
+PIM HIGH YIELD INST (PHIYX)
+12/15/1992
+Bond Investments	High Yield Bond	2.38%	3.22%	4.17%	6.25%	05/31/2020	Show
+VANG HI YLD CORP ADM (VWEAX)
+12/27/1978
+Bond Investments	High Yield Bond	3.39%	3.58%	4.33%	6.62%	05/31/2020	Show
+FID GNMA (FGMNX)
+11/08/1985
+Bond Investments	Intermediate Gov't	5.70%	3.34%	2.64%	3.16%	05/31/2020	Show
+PIM MORTGAGE BCKD IS (PTRIX)
+07/31/1997
+Bond Investments	Intermediate Gov't	5.30%	4.01%	3.55%	3.73%	05/31/2020	Show
+VANG GNMA ADM (VFIJX)
+06/27/1980
+Bond Investments	Intermediate Gov't	6.43%	3.64%	2.96%	3.33%	05/31/2020	Show
+VANG INTM TREAS ADM (VFIUX)
+10/28/1991
+Bond Investments	Intermediate Gov't	10.00%	4.86%	3.61%	3.60%	05/31/2020	Show
+DODGE & COX INCOME (DODIX)
+01/03/1989
+Bond Investments	Intermediate-Term Bond	8.60%	4.96%	4.27%	4.52%	05/31/2020	Show
+FID TOTAL BOND (FTBFX)
+10/15/2002
+Bond Investments	Intermediate-Term Bond	8.11%	4.73%	4.14%	4.51%	05/31/2020	Show
+FIDELITY GOVT INCOME (FGOVX)
+04/04/1979
+Bond Investments	Intermediate-Term Bond	9.73%	4.83%	3.43%	3.28%	05/31/2020	Show
+PIM INV GR CR BD I (PIGIX)
+04/28/2000
+Bond Investments	Intermediate-Term Bond	6.73%	5.07%	4.93%	6.29%	05/31/2020	Show
+PIM TOT RTN ESG INST (PTSAX)
+05/01/1991
+Bond Investments	Intermediate-Term Bond	8.40%	4.70%	3.81%	4.04%	05/31/2020	Show
+PIM TOTAL RT INST (PTTRX)
+05/11/1987
+Bond Investments	Intermediate-Term Bond	8.38%	4.90%	4.01%	4.29%	05/31/2020	Show
+VANG INTM BOND INST (VBIMX)
+03/01/1994
+Bond Investments	Intermediate-Term Bond	10.83%	5.70%	4.52%	4.96%	05/31/2020	Show
+VANG INTM INV GR ADM (VFIDX)
+11/01/1993
+Bond Investments	Intermediate-Term Bond	9.65%	5.35%	4.56%	5.13%	05/31/2020	Show
+PIM LT US GOVT INST (PGOVX)
+07/01/1991
+Bond Investments	Long Government	26.09%	11.64%	8.09%	8.11%	05/31/2020	Show
+VANG LT TREASURY ADM (VUSUX)
+05/19/1986
+Bond Investments	Long Government	26.24%	11.99%	8.35%	8.07%	05/31/2020	Show
+VANG LT INV GR ADM (VWETX)
+07/09/1973
+Bond Investments	Long-Term Bond	17.76%	9.36%	8.07%	8.40%	05/31/2020	Show
+PIM DIVERS INC INST (PDIIX)
+07/31/2003
+Bond Investments	Multisector Bond	3.10%	3.90%	4.87%	5.96%	05/31/2020	Show
+PIM DYNAMIC BOND I (PFIUX)
+06/30/2008
+Bond Investments	Multisector Bond	0.69%	2.76%	2.89%	2.76%	05/31/2020	Show
+PIMCO INCOME INST (PIMIX)
+03/30/2007
+Bond Investments	Multisector Bond	-0.07%	2.88%	4.19%	7.56%	05/31/2020	Show
+FID LTD TERM GOVT (FFXSX)
+11/10/1986
+Bond Investments	Short Government	5.40%	2.84%	1.92%	1.66%	05/31/2020	Show
+VANG ST FEDERAL ADM (VSGDX)
+12/31/1987
+Bond Investments	Short Government	5.06%	2.91%	2.15%	1.84%	05/31/2020	Show
+VANG ST TREASURY ADM (VFIRX)
+10/28/1991
+Bond Investments	Short Government	4.89%	2.76%	1.98%	1.56%	05/31/2020	Show
+PIM LOW DUR ESG INST (PLDIX)
+12/31/1996
+Bond Investments	Short-Term Bond	3.49%	2.30%	1.80%	2.24%	05/31/2020	Show
+PIM LOW DUR INST (PTLDX)
+05/11/1987
+Bond Investments	Short-Term Bond	3.62%	2.54%	2.04%	2.27%	05/31/2020	Show
+VANG ST BOND IDX IS (VBITX)
+03/01/1994
+Bond Investments	Short-Term Bond	5.70%	3.29%	2.47%	2.17%	05/31/2020	Show
+VANG ST INVT GR INST (VFSIX)
+10/29/1982
+Bond Investments	Short-Term Bond	4.76%	3.23%	2.78%	2.78%	05/31/2020	Show
+AF CAP WORLD BOND R6 (RCWGX)
+08/04/1987
+Bond Investments	World Bond	5.17%	3.38%	3.13%	3.24%	05/31/2020	Show
+DODGE & COX GLBL BND (DODLX)
+05/01/2014
+Bond Investments	World Bond	7.86%	4.89%	4.52%	3.04%	05/31/2020	Show
+PIM INTL BD US$H I (PFORX)
+12/02/1992
+Bond Investments	World Bond	3.99%	4.34%	4.32%	5.39%	05/31/2020	Show
+PIM INTL BOND UH I (PFUIX)
+04/30/2004
+Bond Investments	World Bond	0.58%	1.36%	2.17%	2.92%	05/31/2020	Show
+FID STRATEGIC INCOME (FADMX)
+10/31/1994
+Bond Investments	N/A	2.65%	3.01%	3.57%	4.79%	05/31/2020	Show
+VANG WELLESLEY ADM (VWIAX)
+07/01/1970
+Blended Fund Investments	Conservative Alloc.	8.55%	6.33%	6.18%	7.88%	05/31/2020	Show
+FID CONVERTIBLE SEC (FCVSX)
+01/05/1987
+Blended Fund Investments	Convertibles	18.16%	10.94%	6.39%	8.97%	05/31/2020	Show
+AF BALANCED R6 (RLBGX)
+07/25/1975
+Blended Fund Investments	Moderate Allocation	10.15%	7.42%	7.54%	10.29%	05/31/2020	Show
+DODGE & COX BALANCED (DODBX)
+06/26/1931
+Blended Fund Investments	Moderate Allocation	0.89%	3.34%	4.95%	9.13%	05/31/2020	Show
+FID BALANCED K (FBAKX)
+11/06/1986
+Blended Fund Investments	Moderate Allocation	13.09%	8.49%	7.53%	9.94%	05/31/2020	Show
+PIM ALL ASSET INST (PAAIX)
+07/31/2002
+Blended Fund Investments	Moderate Allocation	-2.09%	1.35%	2.53%	4.23%	05/31/2020	Show
+VANG STAR (VGSTX)
+03/29/1985
+Blended Fund Investments	Moderate Allocation	11.41%	7.46%	6.69%	8.91%	05/31/2020	Show
+VANG WELLINGTON ADM (VWENX)
+07/01/1929
+Blended Fund Investments	Moderate Allocation	8.53%	7.30%	7.21%	9.63%	05/31/2020	Show
+FID FREEDOM 2005 K (FSNJX)
+11/06/2003
+Blended Fund Investments	Target-Date 2005-2055	5.38%	4.39%	4.21%	5.57%	05/31/2020	Show
+FID FREEDOM 2010 K (FSNKX)
+10/17/1996
+Blended Fund Investments	Target-Date 2005-2055	5.71%	4.66%	4.57%	6.38%	05/31/2020	Show
+FID FREEDOM 2015 K (FSNLX)
+11/06/2003
+Blended Fund Investments	Target-Date 2005-2055	5.80%	4.85%	4.87%	6.72%	05/31/2020	Show
+FID FREEDOM 2020 K (FSNOX)
+10/17/1996
+Blended Fund Investments	Target-Date 2005-2055	5.91%	4.95%	5.03%	7.16%	05/31/2020	Show
+FID FREEDOM 2025 K (FSNPX)
+11/06/2003
+Blended Fund Investments	Target-Date 2005-2055	5.96%	5.08%	5.17%	7.74%	05/31/2020	Show
+FID FREEDOM 2030 K (FSNQX)
+10/17/1996
+Blended Fund Investments	Target-Date 2005-2055	6.11%	5.38%	5.59%	8.22%	05/31/2020	Show
+FID FREEDOM 2035 K (FSNUX)
+11/06/2003
+Blended Fund Investments	Target-Date 2005-2055	5.72%	5.25%	5.68%	8.57%	05/31/2020	Show
+FID FREEDOM 2040 K (FSNVX)
+09/06/2000
+Blended Fund Investments	Target-Date 2005-2055	5.36%	5.00%	5.55%	8.55%	05/31/2020	Show
+FID FREEDOM 2045 K (FSNZX)
+06/01/2006
+Blended Fund Investments	Target-Date 2005-2055	5.32%	5.02%	5.55%	8.61%	05/31/2020	Show
+FID FREEDOM 2050 K (FNSBX)
+06/01/2006
+Blended Fund Investments	Target-Date 2005-2055	5.31%	4.96%	5.53%	8.67%	05/31/2020	Show
+FID FREEDOM 2055 K (FNSDX)
+06/01/2011
+Blended Fund Investments	Target-Date 2005-2055	5.29%	5.00%	5.53%	7.14%	05/31/2020	Show
+FID FREEDOM INC K (FNSHX)
+10/17/1996
+Blended Fund Investments	Target-Date 2005-2055	5.21%	4.03%	3.78%	4.39%	05/31/2020	Show
+VANG INST TR 2015 (VITVX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	7.27%	5.39%	N/A	5.11%	05/31/2020	Show
+VANG INST TR 2020 (VITWX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	7.26%	5.61%	N/A	5.48%	05/31/2020	Show
+VANG INST TR 2025 (VRIVX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	7.25%	5.80%	N/A	5.71%	05/31/2020	Show
+VANG INST TR 2030 (VTTWX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	7.03%	5.82%	N/A	5.79%	05/31/2020	Show
+VANG INST TR 2035 (VITFX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	6.81%	5.84%	N/A	5.88%	05/31/2020	Show
+VANG INST TR 2040 (VIRSX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	6.48%	5.81%	N/A	5.92%	05/31/2020	Show
+VANG INST TR 2045 (VITLX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	6.10%	5.68%	N/A	5.92%	05/31/2020	Show
+VANG INST TR 2050 (VTRLX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	6.11%	5.68%	N/A	5.92%	05/31/2020	Show
+VANG INST TR 2055 (VIVLX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	6.13%	5.70%	N/A	5.93%	05/31/2020	Show
+VANG INST TR INCOME (VITRX)
+06/26/2015
+Blended Fund Investments	Target-Date 2005-2055	7.19%	5.00%	N/A	4.70%	05/31/2020	Show
+VANG GL WELLNGTN ADM (VGWAX)
+11/02/2017
+Blended Fund Investments	N/A	4.82%	N/A	N/A	3.73%	05/31/2020
+VANG GL WSLY INC ADM (VGYAX)
+11/02/2017
+Blended Fund Investments	N/A	3.49%	N/A	N/A	2.04%	05/31/2020
+AF FUNDMNTL INV R6 (RFNGX)
+08/01/1978
+Stock Investments	Large Blend	9.47%	7.50%	8.85%	12.26%	05/31/2020	Show
+AF INV CO OF AMER R6 (RICGX)
+01/02/1934
+Stock Investments	Large Blend	10.26%	7.33%	7.92%	11.65%	05/31/2020	Show
+DFA US CORE EQ 1 I (DFEOX)
+09/15/2005
+Stock Investments	Large Blend	7.21%	7.18%	7.45%	11.89%	05/31/2020	Show
+FID DIVIDEND GR K (FDGKX)
+04/27/1993
+Stock Investments	Large Blend	-2.17%	3.31%	4.17%	9.45%	05/31/2020	Show
+PIMCO STKPLUS INST (PSTKX)
+05/13/1993
+Stock Investments	Large Blend	11.97%	9.84%	9.42%	13.73%	05/31/2020	Show
+VANG DIV GROWTH INV (VDIGX)
+05/15/1992
+Stock Investments	Large Blend	7.49%	10.46%	9.80%	12.73%	05/31/2020	Show
+VANG FTSE SOC IDX IS (VFTNX)
+01/14/2003
+Stock Investments	Large Blend	15.60%	12.02%	10.61%	13.83%	05/31/2020	Show
+VANG GRTH & INC ADM (VGIAX)
+12/10/1986
+Stock Investments	Large Blend	11.72%	9.62%	9.33%	13.04%	05/31/2020	Show
+AF AMCAP R6 (RAFGX)
+05/01/1967
+Stock Investments	Large Growth	15.63%	11.73%	9.63%	13.35%	05/31/2020	Show
+AF GRTH FUND AMER R6 (RGAGX)
+11/30/1973
+Stock Investments	Large Growth	20.03%	13.26%	12.04%	14.10%	05/31/2020	Show
+AF NEW ECONOMY R6 (RNGGX)
+12/01/1983
+Stock Investments	Large Growth	15.52%	12.47%	10.07%	14.13%	05/31/2020	Show
+FID BLUE CHIP GR K (FBGKX)
+12/31/1987
+Stock Investments	Large Growth	31.20%	19.09%	15.46%	17.16%	05/31/2020	Show
+FID CONTRAFUND K (FCNKX)
+05/17/1967
+Stock Investments	Large Growth	20.92%	14.83%	13.19%	14.85%	05/31/2020	Show
+FID FOCUSED STOCK (FTQGX)
+11/12/1996
+Stock Investments	Large Growth	20.60%	19.22%	13.56%	15.40%	05/31/2020	Show
+FID GROWTH CO K (FGCKX)
+01/17/1983
+Stock Investments	Large Growth	39.38%	20.85%	17.26%	18.44%	05/31/2020	Show
+FID GROWTH DISC K (FGDKX)
+03/31/1998
+Stock Investments	Large Growth	26.27%	17.16%	14.67%	16.32%	05/31/2020	Show
+FID INDEPENDENCE K (FDFKX)
+03/25/1983
+Stock Investments	Large Growth	20.84%	13.75%	8.67%	12.76%	05/31/2020	Show
+FID LARGE CAP STOCK (FLCSX)
+06/22/1995
+Stock Investments	Large Growth	3.17%	5.07%	5.60%	11.40%	05/31/2020	Show
+FID OTC K (FOCKX)
+12/31/1984
+Stock Investments	Large Growth	30.54%	17.73%	16.35%	17.99%	05/31/2020	Show
+FID TREND (FTRNX)
+06/16/1958
+Stock Investments	Large Growth	28.01%	17.60%	14.31%	15.95%	05/31/2020	Show
+VANG PRIMECAP CORE (VPCCX)
+12/09/2004
+Stock Investments	Large Growth	5.56%	6.24%	8.23%	12.71%	05/31/2020	Show
+VANG US GROWTH ADM (VWUAX)
+01/06/1959
+Stock Investments	Large Growth	31.07%	19.84%	15.02%	16.45%	05/31/2020	Show
+AF AMER MUTUAL R6 (RMFGX)
+02/21/1950
+Stock Investments	Large Value	5.29%	7.10%	7.44%	11.12%	05/31/2020	Show
+AF WASH MUTL INV R6 (RWMGX)
+07/31/1952
+Stock Investments	Large Value	6.53%	8.15%	8.64%	12.42%	05/31/2020	Show
+DODGE & COX STOCK (DODGX)
+01/04/1965
+Stock Investments	Large Value	-2.56%	2.85%	5.24%	10.83%	05/31/2020	Show
+FID EQUITY INCOME K (FEIKX)
+05/16/1966
+Stock Investments	Large Value	2.88%	4.32%	5.31%	9.17%	05/31/2020	Show
+VANG EQUITY INC ADM (VEIRX)
+03/21/1988
+Stock Investments	Large Value	1.45%	5.09%	6.72%	11.69%	05/31/2020	Show
+VANGUARD WINDSOR ADM (VWNEX)
+10/23/1958
+Stock Investments	Large Value	2.14%	2.36%	3.66%	9.96%	05/31/2020	Show
+FID LEVERGD CO STK K (FLCKX)
+12/19/2000
+Stock Investments	Mid-Cap Blend	4.03%	4.09%	2.97%	9.28%	05/31/2020	Show
+FID LOW PRICED STK K (FLPKX)
+12/27/1989
+Stock Investments	Mid-Cap Blend	-0.41%	2.29%	3.40%	9.68%	05/31/2020	Show
+VANG MIDCAP IDX INST (VMCIX)
+05/21/1998
+Stock Investments	Mid-Cap Blend	4.80%	6.00%	6.19%	11.56%	05/31/2020	Show
+VANG STRATEGIC EQ (VSEQX)
+08/14/1995
+Stock Investments	Mid-Cap Blend	-3.58%	1.31%	3.19%	10.89%	05/31/2020	Show
+VANG US MULTIFAC ADM (VFMFX)
+02/15/2018
+Stock Investments	Mid-Cap Blend	-4.84%	N/A	N/A	-5.09%	05/31/2020	Show
+FID MID CAP STOCK K (FKMCX)
+03/29/1994
+Stock Investments	Mid-Cap Growth	-3.66%	3.86%	4.80%	10.06%	05/31/2020	Show
+VANG MIDCAP GRTH INV (VMGRX)
+12/31/1997
+Stock Investments	Mid-Cap Growth	11.14%	12.53%	7.97%	12.79%	05/31/2020	Show
+DFA US VECTOR EQ I (DFVEX)
+12/30/2005
+Stock Investments	Mid-Cap Value	-4.97%	0.19%	2.51%	8.88%	05/31/2020	Show
+FID VALUE K (FVLKX)
+12/01/1978
+Stock Investments	Mid-Cap Value	-8.90%	-2.94%	-0.08%	8.07%	05/31/2020	Show
+VANG SELECTED VALUE (VASVX)
+02/15/1996
+Stock Investments	Mid-Cap Value	-10.72%	-3.83%	0.16%	7.79%	05/31/2020	Show
+DFA US SMALL CAP I (DFSTX)
+03/19/1992
+Stock Investments	Small Blend	-7.27%	-1.24%	2.03%	8.91%	05/31/2020	Show
+FID SMALL CAP STOCK (FSLCX)
+03/12/1998
+Stock Investments	Small Blend	-4.66%	2.87%	3.45%	7.31%	05/31/2020	Show
+VANG SM CAP IDX INST (VSCIX)
+10/03/1960
+Stock Investments	Small Blend	-1.44%	3.90%	4.70%	10.46%	05/31/2020	Show
+AF SMALLCAP WORLD R6 (RLLGX)
+04/30/1990
+Stock Investments	Small Growth	12.95%	9.63%	7.81%	11.01%	05/31/2020	Show
+FID SM CAP DISCOVERY (FSCRX)
+09/26/2000
+Stock Investments	Small Growth	-7.99%	-1.97%	0.73%	8.84%	05/31/2020	Show
+VANG EXPLORER ADM (VEXRX)
+12/11/1967
+Stock Investments	Small Growth	9.25%	11.27%	8.62%	12.77%	05/31/2020	Show
+DFA US TARGET VALUE (DFFVX)
+02/23/2000
+Stock Investments	Small Value	-15.38%	-5.28%	-1.26%	6.66%	05/31/2020	Show
+PIM COM REAL RET I (PCRIX)
+06/28/2002
+Stock Investments	Commodities	-17.60%	-6.90%	-7.67%	-5.04%	05/31/2020	Show
+FID REAL ESTATE INC (FRIFX)
+02/04/2003
+Stock Investments	Real Estate	-10.39%	0.15%	2.94%	6.57%	05/31/2020	Show
+FID REAL ESTATE INVS (FRESX)
+11/17/1986
+Stock Investments	Real Estate	-10.23%	1.28%	3.80%	8.80%	05/31/2020	Show
+PIM RE REAL RET INST (PRRSX)
+10/30/2003
+Stock Investments	Real Estate	-12.38%	0.62%	2.85%	10.48%	05/31/2020	Show
+AF NEW WORLD R6 (RNWGX)
+06/17/1999
+Stock Investments	Diversified Emerg Mkts	5.16%	5.36%	5.17%	6.26%	05/31/2020	Show
+DFA EMERG MKTS VALUE (DFEVX)
+04/01/1998
+Stock Investments	Diversified Emerg Mkts	-17.72%	-5.41%	-1.65%	0.32%	05/31/2020	Show
+DFA EMERGING MARKETS (DFEMX)
+04/25/1994
+Stock Investments	Diversified Emerg Mkts	-8.12%	-1.89%	0.35%	2.47%	05/31/2020	Show
+FID PACIFIC BASIN (FPBFX)
+10/01/1986
+Stock Investments	Diversified Pac/Asia	11.79%	6.88%	7.01%	10.17%	05/31/2020	Show
+FID EUROPE (FIEUX)
+10/01/1986
+Stock Investments	Europe Stock	0.44%	-0.07%	0.74%	6.22%	05/31/2020	Show
+AF EUROPAC GROWTH R6 (RERGX)
+04/16/1984
+Stock Investments	Foreign Large Blend	4.18%	3.20%	3.39%	6.81%	05/31/2020	Show
+DFA LARGE CAP INTL I (DFALX)
+07/17/1991
+Stock Investments	Foreign Large Blend	-2.52%	-0.15%	0.83%	5.11%	05/31/2020	Show
+FID INTL DISCOVERY K (FIDKX)
+12/31/1986
+Stock Investments	Foreign Large Blend	6.67%	3.02%	2.94%	7.00%	05/31/2020	Show
+FID OVERSEAS K (FOSKX)
+12/04/1984
+Stock Investments	Foreign Large Blend	5.68%	3.33%	4.45%	8.40%	05/31/2020	Show
+VANG INTL GROWTH ADM (VWILX)
+09/30/1981
+Stock Investments	Foreign Large Blend	23.13%	11.01%	9.27%	10.18%	05/31/2020	Show
+VANGUARD INTL VALUE (VTRIX)
+05/16/1983
+Stock Investments	Foreign Large Blend	-6.64%	-1.85%	-0.47%	4.30%	05/31/2020	Show
+FID DIVERSIFD INTL K (FDIKX)
+12/27/1991
+Stock Investments	Foreign Large Growth	8.89%	3.58%	3.16%	7.22%	05/31/2020	Show
+DFA INTL VALUE I (DFIVX)
+02/15/1994
+Stock Investments	Foreign Large Value	-15.39%	-5.87%	-3.37%	2.54%	05/31/2020	Show
+DODGE & COX INTL STK (DODFX)
+05/01/2001
+Stock Investments	Foreign Large Value	-9.79%	-5.50%	-2.76%	4.11%	05/31/2020	Show
+FID INTL SMALL CAP (FISMX)
+09/18/2002
+Stock Investments	Foreign Sm/Mid Growth	-7.05%	-1.47%	2.78%	8.16%	05/31/2020	Show
+VANG INTL EXPLOR INV (VINEX)
+11/04/1996
+Stock Investments	Foreign Sm/Mid Growth	-1.13%	-2.56%	1.33%	6.54%	05/31/2020	Show
+DFA INTL SMALL CO I (DFISX)
+09/30/1996
+Stock Investments	Foreign Sm/Mid Value	-3.56%	-2.11%	1.76%	6.70%	05/31/2020	Show
+DFA INTL VECTOR EQ I (DFVQX)
+08/14/2008
+Stock Investments	Foreign Sm/Mid Value	-6.81%	-3.22%	-0.01%	4.96%	05/31/2020	Show
+DFA GLOB REAL ESTATE (DFGEX)
+06/04/2008
+Stock Investments	Global Real Estate	-11.05%	1.37%	2.89%	8.18%	05/31/2020	Show
+FID INTL REAL ESTATE (FIREX)
+09/08/2004
+Stock Investments	Global Real Estate	-0.79%	5.41%	4.42%	8.60%	05/31/2020	Show
+FID JAPAN (FJPNX)
+09/15/1992
+Stock Investments	Japan Stock	10.91%	5.31%	5.61%	5.89%	05/31/2020	Show
+FID LATIN AMERICA (FLATX)
+04/19/1993
+Stock Investments	Latin America Stock	-27.82%	-5.52%	-2.78%	-4.34%	05/31/2020	Show
+FID CANADA (FICDX)
+11/17/1987
+Stock Investments	Miscellaneous Region	-6.33%	1.33%	0.88%	2.79%	05/31/2020	Show
+FID CHINA REGION (FHKCX)
+11/01/1995
+Stock Investments	Pacific/Asia ex-Japan	26.09%	11.36%	4.16%	9.42%	05/31/2020	Show
+FID EMERGING ASIA (FSEAX)
+04/19/1993
+Stock Investments	Pacific/Asia ex-Japan	21.32%	11.06%	7.82%	9.15%	05/31/2020	Show
+AF CAP WORLD G&I R6 (RWIGX)
+03/26/1993
+Stock Investments	World Stock	5.53%	4.83%	5.23%	9.02%	05/31/2020	Show
+AF INTL GTH & INC R6 (RIGGX)
+10/01/2008
+Stock Investments	World Stock	-3.45%	-0.06%	0.51%	5.19%	05/31/2020	Show
+AF NEW PERSPECT R6 (RNPGX)
+03/13/1973
+Stock Investments	World Stock	13.65%	9.75%	9.05%	11.63%	05/31/2020	Show
+DODGE & COX GLOBAL (DODWX)
+05/01/2008
+Stock Investments	World Stock	-6.93%	-1.77%	1.62%	7.60%	05/31/2020	Show
+VANG GLB MIN VOL ADM (VMNVX)
+12/12/2013
+Stock Investments	World Stock	-2.49%	4.06%	5.88%	8.19%	05/31/2020	Show
+VANG GLOBAL EQ INV (VHGEX)
+08/14/1995
+Stock Investments	World Stock	6.58%	6.44%	6.60%	9.87%	05/31/2020	Show
